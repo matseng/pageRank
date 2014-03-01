@@ -1,4 +1,6 @@
 #!/bin/bash
+
+# matseng: To run on the command line: ./gitcreate.sh
  
 # This script create a new repo on github.com, then pushes to it the local repo from the current directory.
  
